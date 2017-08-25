@@ -1,15 +1,6 @@
-
-/*
-
-  
-  Sun CPP is a minimal C Ide with basic functions .
-
-
-
-*/
+// author : 
+//  date and time  : 8/25/2017 1:39:35 PM 
 #include <stdio.h>
-void main()
-{
- printf("hello CPP") ;
- getch() ;
-}
+void main() { 
+ getch() ; 
+} 
